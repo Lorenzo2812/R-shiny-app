@@ -1,1 +1,1 @@
-# R-shiny-app-marketing-segmentation-analysis
+# R-shiny-app-segmentation-analysis
